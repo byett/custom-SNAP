@@ -11,7 +11,7 @@ npm install
 Running the server:
 
 ```
-node ./node_modules/bin/lite-server/bin/lite-server
+node ./node_modules/lite-server/bin/lite-server
 ```
 
 If the above command does not work then please use
